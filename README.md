@@ -2,11 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF91A4&center=true&vCenter=true&random=false&width=1000&lines=HELLO%2C+my+name+is+Jo%C3%A3o+Neto;I'm+25+years+old;I'm+from+Brazil;and+graduated+in+Systems+Development;Be+Welcome+!)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jaoneto-rg&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="João Neto github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaoneto-rg&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
-</div>
-
  ##
  
  ### Main skills:
