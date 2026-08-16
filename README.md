@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+João+👋;Frontend+Developer+based+in+Brazil+🇧🇷;Building+modern+%26+performant+web+apps;React+%7C+Next.js+%7C+Vue+%7C+TypeScript;Open+to+new+opportunities+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+João+👋;Full-Stack+Developer+based+in+Brazil+🇧🇷;Building+modern+%26+performant+web+apps;React+%7C+Next.js+%7C+Vue+%7C+TypeScript;Open+to+new+opportunities+🚀)](https://git.io/typing-svg)
 
 </div>
 
@@ -13,9 +13,9 @@
 ```ts
 const joão = {
   location:  "Brazil 🇧🇷",
-  role:      "Frontend Developer",
-  focus:     ["Clean Code", "Great UX", "Accessible Interfaces"],
-  stack:     ["React", "Next.js", "Vue", "TypeScript"],
+  role:      "Full-Stack Developer",
+  focus:     ["Web Applications & Mobile Systems"],
+  stack:     ["Next.js", "React", "Node.js", "TypeScript", "Laravel", "SQL"],
   backend:   ["Node.js", "Express", "Supabase"],
   tools:     ["Git", "Figma", "Cursor", "CI/CD"],
   status:    "Open to new opportunities 🟢",
@@ -26,7 +26,7 @@ const joão = {
 
 ## 🚀 Tech Stack
 
-**Frontend**
+**Full-Stack Development**
 
 ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0D1117)&nbsp;
@@ -41,6 +41,8 @@ const joão = {
 
 ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933&labelColor=0D1117)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-0D1117?style=for-the-badge&logo=express&logoColor=white&labelColor=0D1117)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=FF2D20&labelColor=0D1117)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=336791&labelColor=0D1117)&nbsp;
 ![Supabase](https://img.shields.io/badge/-Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E&labelColor=0D1117)&nbsp;
 
 **Tools & Workflow**
@@ -50,7 +52,6 @@ const joão = {
 ![Cursor](https://img.shields.io/badge/-Cursor-0D1117?style=for-the-badge&logo=cursor&logoColor=white&labelColor=0D1117)&nbsp;
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF&labelColor=0D1117)&nbsp;
 ![VS Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&labelColor=0D1117)&nbsp;
-
 ---
 
 ## 📊 GitHub Stats
